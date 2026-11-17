@@ -1,4 +1,14 @@
-## Hi there 👋
+# ¡Hola! Soy Ana Isabel Gallardo Cordovilla 👋
+
+Soy doctoranda en la **Universidad de Jaén** y compagino la investigación con la docencia de Estadística.
+
+## Investigación
+
+Mi tesis se centra en los **modelos de regresión con efectos aleatorios para datos de conteo**.
+
+## Herramientas
+
+Uso **R** para el análisis estadístico y **LaTeX** para redactar materiales académicos. Ahora estoy aprendiendo a trabajar con **Python, Git y GitHub** para organizar el código y preparar análisis que se puedan reproducir.
 
 <!--
 **aigallar/aigallar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

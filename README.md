@@ -10,6 +10,8 @@ Mi tesis se centra en los **modelos de regresión con efectos aleatorios para da
 
 Uso **R** para el análisis estadístico y **LaTeX** para redactar materiales académicos. Ahora estoy aprendiendo a trabajar con **Python, Git y GitHub** para organizar el código y preparar análisis que se puedan reproducir.
 
+Aportación de prueba por **@chl00016**. Cancelar merge?
+
 <!--
 **aigallar/aigallar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

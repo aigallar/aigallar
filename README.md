@@ -1,6 +1,6 @@
 # ¡Hola! Soy Ana Isabel Gallardo Cordovilla 👋
 
-Soy doctoranda en la **Universidad de Jaén** y compagino la investigación con la docencia de Estadística.
+Soy doctoranda en la **Universidad de Jaén** y compagino la investigación con la mi otra pasión: ¡la docencia en Estadística!.
 
 ## Investigación
 
